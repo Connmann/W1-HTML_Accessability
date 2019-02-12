@@ -110,3 +110,9 @@ td, th {
 	margin-top: 5px;
 	margin-bottom: 5px;
 }
+
+label[for="dialerInput"]
+{
+    display:none;
+}
+
